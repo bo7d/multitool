@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+rich
+dnspython
+cryptography
+pynput
+pywin32
+pillow
+scapy
